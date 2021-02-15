@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 16 10:54:32 2020
-
-@author: hungd
-"""
-
 import pygame
 import neat
 import time
